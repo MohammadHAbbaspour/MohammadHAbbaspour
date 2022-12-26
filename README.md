@@ -3,7 +3,7 @@
 - 🌱 I try to have fun while coding
 - 🌱 I’m learning AI and ML
 - 🌱 How to reach me:
-  - [telegram](t.me/M_Frank_H)
+  - [telegram](https://t.me/M_Frank_H)
 <!--
 **MohammadHAbbaspour/MohammadHAbbaspour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
