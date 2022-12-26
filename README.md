@@ -4,6 +4,8 @@
 - 🌱 I’m learning AI and ML
 - 🌱 How to reach me:
   - [telegram](https://t.me/M_Frank_H)
+  - [LinkedIn](https://www.linkedin.com/in/mohammad-hossein-abbaspour/)
+  - [Gmail](mohammadhabp@gmail.com)
 <!--
 **MohammadHAbbaspour/MohammadHAbbaspour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
