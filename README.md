@@ -1,4 +1,8 @@
 <h3 align="center">
+  Hi there 👋
+</h3>
+
+<h3 align="center">
   Welcome to my github profile!
 </h3>
 
