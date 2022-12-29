@@ -40,15 +40,15 @@
 
 <p align="center">
   <code><img title="djanog-rest" height="25" src="images/rest.png"></code>
-  <code><img title="C" height="25" src="images/c.png"></code>
+  <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="linux" height="25" src="images/linux.svg"></code>
-  <code><img title="sql-server" height="25" src="images/sqlserver.svg"></code>
+  <code><img title="sql-server" height="25" src="images/sqlserver.png"></code>
 </p>
 
 <p align="center">
   <code><img title="mysql" height="25" src="images/mysql.png"></code>
   <code><img title="postgresql" height="25" src="images/postgresql.svg"></code>
-  <code><img title="vscode" height="25" src="images/vscode.png"></code>
+  <code><img title="vscode" height="25" src="images/vscode.svg"></code>
 </p>
 
 <p align="center">
