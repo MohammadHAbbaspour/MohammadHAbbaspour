@@ -33,27 +33,27 @@
 ## ⚡ Skills
 
 <p align="center">
-  <code><img title="Python" height="25" src="images/python.svg"></code>
-  <code><img title="C#" height="25" src="images/csharp.png"></code>
-  <code><img title="django" height="25" src="images/django.png"></code>
+  <code><img title="Python" height="33" src="images/python.svg"></code>
+  <code><img title="C#" height="33" src="images/csharp.png"></code>
+  <code><img title="django" height="33" src="images/django.png"></code>
 </p>
 
 <p align="center">
-  <code><img title="djanog-rest" height="25" src="images/rest.png"></code>
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="linux" height="25" src="images/linux.svg"></code>
-  <code><img title="sql-server" height="25" src="images/sqlserver.png"></code>
+  <code><img title="djanog-rest" height="33" src="images/rest.png"></code>
+  <code><img title="C" height="33" src="images/c.svg"></code>
+  <code><img title="linux" height="33" src="images/linux.svg"></code>
+  <code><img title="sql-server" height="33" src="images/sqlserver.png"></code>
 </p>
 
 <p align="center">
-  <code><img title="mysql" height="25" src="images/mysql.png"></code>
-  <code><img title="postgresql" height="25" src="images/postgresql.svg"></code>
-  <code><img title="vscode" height="25" src="images/vscode.svg"></code>
+  <code><img title="mysql" height="33" src="images/mysql.png"></code>
+  <code><img title="postgresql" height="33" src="images/postgresql.svg"></code>
+  <code><img title="vscode" height="33" src="images/vscode.svg"></code>
 </p>
 
 <p align="center">
-  <code><img title="office" height="25" src="images/office.jfif"></code>
-  <code><img title="git" height="25" src="images/git.svg"></code>
-  <code><img title="github" height="25" src="images/github.svg"></code>
-  <code><img title="scrum" height="25" src="images/scrum.png"></code>
+  <code><img title="office" height="33" src="images/office.jfif"></code>
+  <code><img title="git" height="33" src="images/git.svg"></code>
+  <code><img title="github" height="33" src="images/github.svg"></code>
+  <code><img title="scrum" height="33" src="images/scrum.png"></code>
 </p>
