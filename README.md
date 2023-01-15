@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&size=22&color=FA8B00&background=9F8E3C00&center=true&vCenter=true&width=435&lines=A+CE+Student;I+AM+LEARNING+AI/ML" alt="my-intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&size=22&color=EDBB02&background=9F8E3C00&center=true&vCenter=true&width=435&lines=A+CE+Student;I+AM+LEARNING+AI/ML" alt="my-intro" />
 </p>
 
 <p align="center">
