@@ -30,8 +30,8 @@
 
 ## 📊 Stats
 <div>
-<img style="height: 10rem" src="https://github-readme-stats.vercel.app/api?username=MohammadHAbbaspour&theme=prussian&show_icons=true&include_all_commits=true&hide_border=true">
-<img style="height: 10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadHAbbaspour&layout=compact&theme=prussian&hide_border=true">
+<img style="height: 10rem" src="https://github-readme-stats.vercel.app/api?username=MohammadHAbbaspour&theme=outrun&show_icons=true&include_all_commits=true&hide_border=true">
+<img style="height: 10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadHAbbaspour&layout=compact&theme=outrun&hide_border=true">
 </div>
 
 ## ⚡ Skills
