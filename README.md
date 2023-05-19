@@ -38,6 +38,7 @@
 
 <p align="center">
   <code><img title="Python" height="33" src="images/python.svg"></code>
+  <code><img title="Python" height="33" src="images/numpy.png"></code>
   <code><img title="C#" height="33" src="images/csharp.png"></code>
   <code><img title="django" height="33" src="images/django.png"></code>
 </p>
