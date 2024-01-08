@@ -1,6 +1,6 @@
 # Hello ! 
 
-My name is Mohammad Hossein Abbaspour. I am a CE student in IUST 
+My name is Mohammad Hossein Abbaspour. I am a CE student at IUST 
 
 ## 🛠  Technologies and tools
 
