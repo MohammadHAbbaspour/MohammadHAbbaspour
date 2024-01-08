@@ -1,64 +1,55 @@
-<h3 align="center">
-  Hi there 👋
-</h3>
+# Hello ! 
 
-<h3 align="center">
-  Welcome to my github profile!
-</h3>
+My name is Mohammad Hossein Abbaspour. I am a CE student in IUST 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&size=22&color=EDBB02&background=9F8E3C00&center=true&vCenter=true&width=435&lines=A+CE+Student;I+AM+LEARNING+AI/ML" alt="my-intro" />
-</p>
+## 🛠  Technologies and tools
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-hossein-abbaspour/" title="LinkedIn">
-    <img width="30" src="images/linkedin.svg">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mohammadhabp@gmail.com" title="Email">
-    <img width="30" src="images/gmail.svg">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/mohammadh_abp/" title="Instagram">
-    <img width="30" src="images/instagram.svg">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/M_Frank_H/" title="Telegram">
-    <img width="30" src="images/telegram.svg">
-  </a>
-</p>
+<a name="learning-now"></a>
 
-## 📊 Stats
-<div>
-<img style="height: 10rem" src="https://github-readme-stats.vercel.app/api?username=MohammadHAbbaspour&theme=outrun&show_icons=true&include_all_commits=true&hide_border=true">
-<img style="height: 10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadHAbbaspour&layout=compact&theme=outrun&hide_border=true">
-</div>
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Numpy-282C34?logo=numpy&logoColor=3178C6" alt="Numpy logo" title="Numpy" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp" alt="C# logo" title="C#" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/DJango-282C34?logo=django&logoColor=005959" alt="DJango logo" title="django" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Rest-282C34?logo=django&logoColor=005959" alt="DJango-Rest logo" title="Rest" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=61DAFB" alt="C logo" title="C" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Linux-282C34?logo=linux" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/SQL Server-282C34?logo=microsoft-sql-server" alt="sql server logo" title="sql server" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="mysql logo" title="mysql" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Postgresql-282C34?logo=postgresql&logoColor=007ACC" alt="Postgresql logo" title="Postgresql" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Keras-282C34?logo=keras" alt="Keras logo" title="Keras" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Pytorch-282C34?logo=pytorch" alt="pytorch logo" title="pytorch" height="25" />][tech_tools_anchor]
 
-## ⚡ Skills
+<a name="learning-next"></a>
 
-<p align="center">
-  <code><img title="Python" height="33" src="images/python.svg"></code>
-  <code><img title="Python" height="33" src="images/numpy.png"></code>
-  <code><img title="C#" height="33" src="images/csharp.png"></code>
-  <code><img title="django" height="33" src="images/django.png"></code>
-</p>
+## 📖  What I am currently learning / improving on
 
-<p align="center">
-  <code><img title="djanog-rest" height="33" src="images/rest.png"></code>
-  <code><img title="C" height="33" src="images/c.svg"></code>
-  <code><img title="linux" height="33" src="images/linux.svg"></code>
-  <code><img title="sql-server" height="33" src="images/sqlserver.png"></code>
-</p>
+[<img src="https://img.shields.io/badge/NLP-282C34?logo=nlp&logoColor=FFCA28" alt="NLP logo" title="NLP" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/ML-282C34?logo=ML&logoColor=FFCA28" alt="ML logo" title="ML" height="25" />][learning_now_anchor]
 
-<p align="center">
-  <code><img title="mysql" height="33" src="images/mysql.png"></code>
-  <code><img title="postgresql" height="33" src="images/postgresql.svg"></code>
-  <code><img title="vscode" height="33" src="images/vscode.svg"></code>
-</p>
+## 🔍  Where to find me
 
-<p align="center">
-  <code><img title="office" height="33" src="images/office.jfif"></code>
-  <code><img title="git" height="33" src="images/git.svg"></code>
-  <code><img title="github" height="33" src="images/github.svg"></code>
-  <code><img title="scrum" height="33" src="images/scrum.png"></code>
-</p>
+[<img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail" alt="Gmail logo" title="Gmail" height="25" />](mailto:mohammadhabp@gmail.com)
+&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/mohammad-hossein-abbaspour/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram" alt="instagram logo" title="instagram" height="25" />](https://www.instagram.com/mohammadh_abp/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram" alt="telegram logo" title="telegram" height="25" />](https://t.me/M_Frank_H/)
+
+[tech_tools_anchor]: #hello--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
