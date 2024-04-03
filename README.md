@@ -10,6 +10,16 @@ My name is Mohammad Hossein Abbaspour. I am a CE student at IUST
 &nbsp;
 [<img src="https://img.shields.io/badge/Numpy-282C34?logo=numpy&logoColor=3178C6" alt="Numpy logo" title="Numpy" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=3178C6" alt="Pandas logo" title="Pandas" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Pytorch-282C34?logo=pytorch" alt="pytorch logo" title="pytorch" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow" alt="Keras logo" title="Keras" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Linux-282C34?logo=linux" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp" alt="C# logo" title="C#" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/DJango-282C34?logo=django&logoColor=005959" alt="DJango logo" title="django" height="25" />][tech_tools_anchor]
@@ -18,19 +28,13 @@ My name is Mohammad Hossein Abbaspour. I am a CE student at IUST
 &nbsp;
 [<img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=61DAFB" alt="C logo" title="C" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Linux-282C34?logo=linux" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/SQL Server-282C34?logo=microsoft-sql-server" alt="sql server logo" title="sql server" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="mysql logo" title="mysql" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Postgresql-282C34?logo=postgresql&logoColor=007ACC" alt="Postgresql logo" title="Postgresql" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Keras-282C34?logo=keras" alt="Keras logo" title="Keras" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Pytorch-282C34?logo=pytorch" alt="pytorch logo" title="pytorch" height="25" />][tech_tools_anchor]
+
+
 
 <a name="learning-next"></a>
 
