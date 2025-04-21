@@ -42,7 +42,7 @@ My name is Mohammad Hossein Abbaspour. I am a CE student at IUST
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/NLP-282C34?logo=nlp&logoColor=FFCA28" alt="NLP logo" title="NLP" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/NLP-282C34?logo=nlp&logoColor=FFCA28" alt="LLM logo" title="LLM" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/ML-282C34?logo=ML&logoColor=FFCA28" alt="ML logo" title="ML" height="25" />][learning_now_anchor]
 
@@ -51,10 +51,7 @@ My name is Mohammad Hossein Abbaspour. I am a CE student at IUST
 [<img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail" alt="Gmail logo" title="Gmail" height="25" />](mailto:mohammadhabp@gmail.com)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/mohammad-hossein-abbaspour/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram" alt="instagram logo" title="instagram" height="25" />](https://www.instagram.com/mohammadh_abp/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram" alt="telegram logo" title="telegram" height="25" />](https://t.me/M_Frank_H/)
+
 
 [tech_tools_anchor]: #hello--
 [learning_now_anchor]: #learning-now
