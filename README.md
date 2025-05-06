@@ -12,10 +12,6 @@ My name is Mohammad Hossein Abbaspour. I am a CE student at IUST
 &nbsp;
 [<img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=3178C6" alt="Pandas logo" title="Pandas" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Pytorch-282C34?logo=pytorch" alt="pytorch logo" title="pytorch" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow" alt="Keras logo" title="Keras" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/OpenCV-282C34?logo=opencv" alt="OpenCV logo" title="Keras" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="git" height="25" />][tech_tools_anchor]
