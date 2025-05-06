@@ -40,11 +40,6 @@ My name is Mohammad Hossein Abbaspour. I am a CE student at IUST
 
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
-
-[<img src="https://img.shields.io/badge/LLM-282C34?logo=LLM&logoColor=FFCA28" alt="LLM logo" title="LLM" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/ML-282C34?logo=ML&logoColor=FFCA28" alt="ML logo" title="ML" height="25" />][learning_now_anchor]
 
 ## 🔍  Where to find me
 
